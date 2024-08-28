@@ -130,18 +130,18 @@ The above function can be enabled if multiple servers are shown.
 ```
 
 Queued:
-![ScheduledJob](images/ScheduledSS.jpg)
+![ScheduledJob](Images/ScheduledSS.jpg)
 
 ### Email Sending Page
 
 Validation:
- ![Validation](images/ErrorSS.jpg)
+ ![Validation](Images/ErrorSS.jpg)
 
 Success:
- ![Success](images/SuccessSS.jpg)
+ ![Success](Images/SuccessSS.jpg)
 
 Queued:
- ![Queued](images/QueuedSS.jpg)
+ ![Queued](Images/QueuedSS.jpg)
 
 ### Running the Application
 
