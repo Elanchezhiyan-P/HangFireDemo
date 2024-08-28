@@ -163,3 +163,7 @@ To build and run your application, use the following commands:
    dotnet run
 
 These commands will clean, build, and run your .NET application. After running these commands, navigate to `/JobDashboard` to access the Hangfire Dashboard and use the email scheduling page to manage scheduled jobs.
+
+### Reference
+
+-[GitHub](https://github.com/HangfireIO/Hangfire/blob/main/src/Hangfire.SqlServer/Install.sql)
